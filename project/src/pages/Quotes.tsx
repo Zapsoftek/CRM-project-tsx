@@ -1,4 +1,3 @@
-import React from 'react';
 import { Plus, Search, Download } from 'lucide-react';
 
 const Quotes = () => {

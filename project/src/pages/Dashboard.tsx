@@ -1,4 +1,3 @@
-import React from 'react';
 import { BarChart3, Users, Building2, FileText } from 'lucide-react';
 
 const Dashboard = () => {
